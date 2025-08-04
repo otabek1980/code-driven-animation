@@ -5,8 +5,8 @@ html, body {
   font-optical-sizing: auto;
   font-weight: 900;
   font-style: normal;
-  background:#000;
-  overflow:hidden;
+  background: white;
+  overflow: hidden;
 }
 
 body, pov {
